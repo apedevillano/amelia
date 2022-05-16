@@ -14,7 +14,7 @@ Eclipse Effect(/pdf/sample_presentation.pdf)
 ---
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/https://drive.google.com/file/d/1boyDO3d9R8yhjUhU95hw78pygLHCypbg/view?usp=drive_web&authuser=0?raw=true"/>
 
 ---
 
