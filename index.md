@@ -8,7 +8,7 @@
 <img src="images/tylerthecreator.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+Eclipse Effect(/pdf/sample_presentation.pdf)
 <img src="images/eclipse-1492818_1280.jpg
 ?raw=true"/>
 
