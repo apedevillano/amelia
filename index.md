@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+###  Ripped Effect
 
 [Project 1 Title](/sample_page)
 <img src="images/tylerthecreator.jpg?raw=true"/>
